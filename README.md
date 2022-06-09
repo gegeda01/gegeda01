@@ -1,5 +1,5 @@
 ### Hi there 👋 This is Katherine Luo
-### A computer sysytem engineer, casual artist and independt woman.
+### A computer sysytems engineer, casual artist and independent woman.
 
 
 - 🔭 I’m currently working on my portfolio website.
