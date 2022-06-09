@@ -1,6 +1,5 @@
-### Hi there 👋 This is Katherine Luo
-### A computer sysytems engineer, casual artist and independent woman.
-
+# Hi there 👋 This is Katherine Luo :woman_technologist:
+## I guess you wanna know:
 
 - 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently learning frontend development(Javascript & React).
