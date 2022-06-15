@@ -9,5 +9,5 @@
   - :globe_with_meridians:  
 - ⚡ Fun fact: While studying, I'm also working as a medical alarms installer which I often visit elderly people within the community.
 - :teddy_bear: Hobbies:
-  - :art: Acrylic painting & Digital illustration
+  - :art: Acrylic painting & :framed_picture: Digital illustration
   - :badminton: Badminton & :swimming_woman: Swimming
