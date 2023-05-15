@@ -1,9 +1,9 @@
 # Hi there 👋 This is Katherine Luo :woman_technologist:
 ## I guess you wanna know:
 
-- 🔭 I’m currently creating an API.
+- 🔭 I’m currently learning Reinformance Learning.
 - 🌱 I’m currently learning frontend development(Javascript,React and Typescript).
-- :raising_hand_woman:  Ask me about website development, digital systems design and android development.
+- :raising_hand_woman:  Ask me about website development, digital systems design and data analysis.
 - 📫 How to reach me: 
   - :envelope:  1019luo@gmail.com
   - :globe_with_meridians:  https://katherineluo-portfolio.netlify.app/
